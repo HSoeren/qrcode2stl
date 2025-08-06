@@ -733,6 +733,7 @@ export default {
         'thumbs-down',
         'bolt',
         'moon',
+        'bug',
       ],
     };
   },
